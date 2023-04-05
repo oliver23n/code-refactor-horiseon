@@ -15,14 +15,11 @@ With the given code of the webpage did the following:
 N/A
 
 ## Usage
+Link to the updated webpage: https://oliver23n.github.io/code-refactor-horiseon/
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+```md 
+![alt text](assets/images/Screenshot.png)
+```
 
 ## Credits
 
