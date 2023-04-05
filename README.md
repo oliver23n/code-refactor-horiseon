@@ -17,9 +17,8 @@ N/A
 ## Usage
 Link to the updated webpage: https://oliver23n.github.io/code-refactor-horiseon/
 
-```md 
-![alt text](assets/images/Screenshot.png)
-```
+
+![updated webpage for Horiseon Website](assets/images/Screenshot.png)
 
 ## Credits
 
