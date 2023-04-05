@@ -18,7 +18,7 @@ N/A
 Link to the updated webpage: https://oliver23n.github.io/code-refactor-horiseon/
 
 
-![updated webpage for Horiseon Website](assets/images/Screenshot.png)
+![Screenshot of updated webpage for Horiseon Website](assets/images/Screenshot.png)
 
 ## Credits
 
