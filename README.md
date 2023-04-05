@@ -17,7 +17,7 @@ N/A
 ## Usage
 Link to the updated webpage: https://oliver23n.github.io/code-refactor-horiseon/
 
-![screenshot of updated webpage](assets/images/screenshot.png)
+![screenshot of updated webpage](assets/images/screenshot1.png)
 ## Credits
 
 Base code developed and provided by Columbia Coding Bootcamp
